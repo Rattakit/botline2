@@ -41,7 +41,7 @@ if ( sizeof($request_array['events']) > 0 )
 		}
 		else
 		{
-			$reply_message = 'ระบบได้รับข้อความ ('.$text.') ของคุณแล้ว';
+			$reply_message = 'ระบบได้รับข้อความ... ('.$text.') ของคุณแล้ว';
     		}
    
    }
